@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Documentation",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://v2.wadsaadbhx.com/images/logo/niMagBKp0ADnNnn18K2q0SwijliaMmtBxjRphDXL.png",
+    "light": "https://v2.wadsaadbhx.com/images/logo/niMagBKp0ADnNnn18K2q0SwijliaMmtBxjRphDXL.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#0ea5e9",
+    "light": "#0ea5e9",
+    "dark": "#0369a1",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#0ea5e9",
+      "to": "#0ea5e9"
     }
   },
   "topbarLinks": [
@@ -21,31 +21,10 @@
       "url": "mailto:hi@mintlify.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
