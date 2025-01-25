@@ -39,12 +39,9 @@
     {
       "group": "Transactions",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "transactions/transactions-list",
+        "transactions/send-transaction",
+        "transactions/edit-transaction"
       ]
     },
     {
